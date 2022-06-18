@@ -1,4 +1,4 @@
-# df-uploader
+# df-minter
 
 Simple minter with a local file for canisters on the Internet Computer.
 
